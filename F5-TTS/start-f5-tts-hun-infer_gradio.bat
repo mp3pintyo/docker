@@ -1,6 +1,6 @@
 @echo off
 echo Valassza ki a hasznalni kivant modellt:
-echo 1: sarpba model - hf://sarpba/F5-TTS-Hun/model_270000_hun_v3.pt
+echo 1: sarpba model - hf://sarpba/F5-TTS-Hun/resolve/main/hun_v4/model_524580_hun.safetensors
 echo 2: mp3pintyo model - hf://mp3pintyo/F5-TTS-Hun/model_122000-hun.pt
 set /p model_choice="Irja be a modell szamat (1 vagy 2): "
 
